@@ -16,8 +16,6 @@ function MenuBar() {
                     <li><a>Pet corner</a></li>
                     <li><a>Books</a></li>
                     <li><a>Beauty</a></li>
-                    <li><a>Kitchen</a></li>
-                    <li><a>Bedroom</a></li>
                     <li><a>Sport</a></li>
                     <li><a>Bags</a></li>
                 </ul>
