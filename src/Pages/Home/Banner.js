@@ -10,7 +10,6 @@ function Banner() {
             .then(data => setProducts(data.products[0].productData))
     }, [])
     const bannerProducts = products.slice(0, 6);
-    console.log(products);
     return (
         <div className='px-5'>
             <div className='flex gap-6'>
